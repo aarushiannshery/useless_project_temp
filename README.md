@@ -86,6 +86,8 @@ Open index.html with Live Server
 
 # Video
 
+https://github.com/user-attachments/assets/dc151ed7-8e55-46ad-97f9-693f1b5ddb07
+
 
 *The demo video showcases the complete user journey—from entering the cinematic quiz, answering chaotic questions, to receiving a dramatic movie-style diagnosis of their current life genre.*
 
