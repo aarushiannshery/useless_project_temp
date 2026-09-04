@@ -94,6 +94,7 @@ https://github.com/user-attachments/assets/dc151ed7-8e55-46ad-97f9-693f1b5ddb07
 # Additional Demos
 
 * GitHub Repository: https://github.com/aarushiannshery/useless_project_temp.git
+  https://github.com/biyaabey-07
 * Live Website: https://pixel-perfect-pix-51.lovable.app
 
 ## Team Contributions
